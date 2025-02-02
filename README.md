@@ -16,13 +16,13 @@ I don't understand with outlined (just visually try to match with the video)
 
 ## List of Features
 
-[👍🏻] Searchable Dropdown
-[👍🏻] Portal Support
-[👍🏻] Single or Multiple Selection
-[👍🏻] Customization of how options are rendered
-[👍🏻] Search Filtering
-[👍🏻] Toggle Features (can be test on Storybook)
-[👍🏻] Z-Index Compatibility
+- [👍🏻] Searchable Dropdown
+- [👍🏻] Portal Support
+- [👍🏻] Single or Multiple Selection
+- [👍🏻] Customization of how options are rendered
+- [👍🏻] Search Filtering
+- [👍🏻] Toggle Features (can be test on Storybook)
+- [👍🏻] Z-Index Compatibility
 
 ## Required
 
