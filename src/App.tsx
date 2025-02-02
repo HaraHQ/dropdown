@@ -4,9 +4,9 @@ import Dropdown from "./components/Dropdown";
 function App() {
   const ddList = [
     {
-      label: "Aji Pangestu",
+      label: "Rafi Ahmad",
       value: "option1",
-      render: <div className="text-red-400">👨🏻 Aji Pangestu</div>,
+      render: <div className="text-red-400">👨🏻 Rafi Ahmad</div>,
     },
     {
       label: "Boy William",

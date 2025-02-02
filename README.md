@@ -24,3 +24,8 @@ I don't understand with outlined (just visually try to match with the video)
 [👍🏻] Toggle Features (can be test on Storybook)
 [👍🏻] Z-Index Compatibility
 
+## Required
+
+- Storybook URL: <https://679f4d44682d5b75f90b35ca-tukclocxsb.chromatic.com>
+- Github URL: <https://github.com/HaraHQ/dropdown>
+- Deployment URL: <https://dropdown-six-ruddy.vercel.app/>
